@@ -1,7 +1,7 @@
 {
     "name": "myportfolio",
     "version": "0.1.0",
-    "homepage": "https://github.com/hardikjoshi746/myPortfolio",
+    "homepage": "https://hardikjoshi746.github.io/portfolio",
     "private": true,
     "dependencies": {
         "bootstrap": "^5.2.3",
